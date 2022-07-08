@@ -9,7 +9,8 @@ With a database given, the pourpose is to undesrtand how are the fundraising beh
 ## Analysis and Challenges
 As mentioned, the given information contains detail of each fundraising like name, dates, goal, pledge, country, etc. As follows:
 
-![detailed info](C:\Users\luis_\OneDrive\Escritorio\BootCamp DA\Challenge 1/detailed info.png)
+![detailed info](https://user-images.githubusercontent.com/108499271/177900381-b03cfce8-fba0-475f-adb1-3dd2a022c47d.png)
+
 
 The month with most successful fundraisings is May, showing a big increase from Apr, with 40 succesful cases. In addition, failed and canceled fundraisings didn´t grow that much, from April to May. 
 Biggest number of failed cases happened in Oct, despite of that, this is the only month with no canceled campaings.
